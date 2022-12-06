@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4491fe56.css",
-    "main.js": "/static/js/main.bdec55ba.js",
+    "main.css": "/static/css/main.0b792ff1.css",
+    "main.js": "/static/js/main.0b0c246f.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/unplash.png": "/static/media/unplash.9d32260ea15bb5834509.png",
     "static/media/Ankita-Thakur-Resume.pdf": "/static/media/Ankita-Thakur-Resume.f0caf39cf4a49f791a3c.pdf",
@@ -15,12 +15,12 @@
     "index.html": "/index.html",
     "static/media/cssIcon.svg": "/static/media/cssIcon.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/htmlIcon.svg": "/static/media/htmlIcon.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.4491fe56.css.map": "/static/css/main.4491fe56.css.map",
-    "main.bdec55ba.js.map": "/static/js/main.bdec55ba.js.map",
+    "main.0b792ff1.css.map": "/static/css/main.0b792ff1.css.map",
+    "main.0b0c246f.js.map": "/static/js/main.0b0c246f.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4491fe56.css",
-    "static/js/main.bdec55ba.js"
+    "static/css/main.0b792ff1.css",
+    "static/js/main.0b0c246f.js"
   ]
 }

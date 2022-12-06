@@ -1,20 +1,20 @@
 {
-  "short_name": "React App",
+  "short_name": "Ankita Thakur Portfolio",
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "c8.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/jpg"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "c8.jpg",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "c8.jpg",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],
