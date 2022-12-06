@@ -3,18 +3,18 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "c8.jpg",
+      "src": "ankita.PNG",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/jpg"
+      "type": "image/PNG"
     },
     {
-      "src": "c8.jpg",
-      "type": "image/jpg",
+      "src": "ankita.PNG",
+      "type": "image/PNG",
       "sizes": "192x192"
     },
     {
-      "src": "c8.jpg",
-      "type": "image/jpg",
+      "src": "ankita.PNG",
+      "type": "image/PNG",
       "sizes": "512x512"
     }
   ],
