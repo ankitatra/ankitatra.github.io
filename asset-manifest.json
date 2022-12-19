@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b792ff1.css",
-    "main.js": "/static/js/main.0b0c246f.js",
+    "main.css": "/static/css/main.fc360629.css",
+    "main.js": "/static/js/main.d4ba5dbb.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/unplash.png": "/static/media/unplash.9d32260ea15bb5834509.png",
+    "static/media/jefit.PNG": "/static/media/jefit.328e9d0d6280b4e2b496.PNG",
     "static/media/Ankita-Thakur-Resume.pdf": "/static/media/Ankita-Thakur-Resume.f0caf39cf4a49f791a3c.pdf",
+    "static/media/myHours.PNG": "/static/media/myHours.a5fb64ca2560e861a543.PNG",
     "static/media/computer.png": "/static/media/computer.677d3abd571e160738b5.png",
     "static/media/reactIcon.svg": "/static/media/reactIcon.946f1d46cc66ee99c7a2aa40f66f9011.svg",
     "static/media/nodeIcon.svg": "/static/media/nodeIcon.5bfbfb680ce29ca68b1cc461e11a6a4c.svg",
@@ -15,12 +17,12 @@
     "index.html": "/index.html",
     "static/media/cssIcon.svg": "/static/media/cssIcon.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/htmlIcon.svg": "/static/media/htmlIcon.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.0b792ff1.css.map": "/static/css/main.0b792ff1.css.map",
-    "main.0b0c246f.js.map": "/static/js/main.0b0c246f.js.map",
+    "main.fc360629.css.map": "/static/css/main.fc360629.css.map",
+    "main.d4ba5dbb.js.map": "/static/js/main.d4ba5dbb.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b792ff1.css",
-    "static/js/main.0b0c246f.js"
+    "static/css/main.fc360629.css",
+    "static/js/main.d4ba5dbb.js"
   ]
 }
