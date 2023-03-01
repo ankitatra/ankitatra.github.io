@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1e8e4ff5.js",
+    "main.css": "/static/css/main.9a53734a.css",
+    "main.js": "/static/js/main.505030bf.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/unplash.png": "/static/media/unplash.9d32260ea15bb5834509.png",
+    "static/media/bewakoof.PNG": "/static/media/bewakoof.c6b2ccb769e1fd5abcc0.PNG",
+    "static/media/giphy.gif": "/static/media/giphy.3bc4d13144dafbcb5345.gif",
+    "static/media/pharmesy.PNG": "/static/media/pharmesy.7eb27ccd4177327b4f15.PNG",
+    "static/media/jefit.PNG": "/static/media/jefit.328e9d0d6280b4e2b496.PNG",
+    "static/media/Ankita-Thakur-Resume.pdf": "/static/media/Ankita-Thakur-Resume.f0caf39cf4a49f791a3c.pdf",
+    "static/media/ankita2.jpg": "/static/media/ankita2.2987dcf3a1a1fb8d271f.jpg",
+    "static/media/myHours.PNG": "/static/media/myHours.a5fb64ca2560e861a543.PNG",
+    "static/media/computer.png": "/static/media/computer.677d3abd571e160738b5.png",
+    "static/media/reactIcon.svg": "/static/media/reactIcon.946f1d46cc66ee99c7a2aa40f66f9011.svg",
+    "static/media/gif1124.webp": "/static/media/gif1124.98c022a066373c794a54.webp",
+    "static/media/nodeIcon.svg": "/static/media/nodeIcon.5bfbfb680ce29ca68b1cc461e11a6a4c.svg",
+    "static/media/reduxIcon.svg": "/static/media/reduxIcon.aa6b1516237e14d0d516b5cde26408f1.svg",
+    "static/media/expressIcon.svg": "/static/media/expressIcon.2879fa1876f2b0e8ec70c8bae81f8446.svg",
+    "static/media/jsIcon.svg": "/static/media/jsIcon.1f9ca452e7e0f7bddb1f436326b854a4.svg",
+    "static/media/mongoIcon.svg": "/static/media/mongoIcon.64aabbfa8c970039fce277dc015dce8e.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1e8e4ff5.js.map": "/static/js/main.1e8e4ff5.js.map",
+    "static/media/cssIcon.svg": "/static/media/cssIcon.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/htmlIcon.svg": "/static/media/htmlIcon.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.9a53734a.css.map": "/static/css/main.9a53734a.css.map",
+    "main.505030bf.js.map": "/static/js/main.505030bf.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1e8e4ff5.js"
+    "static/css/main.9a53734a.css",
+    "static/js/main.505030bf.js"
   ]
 }
