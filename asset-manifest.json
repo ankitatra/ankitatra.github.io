@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9a53734a.css",
-    "main.js": "/static/js/main.505030bf.js",
+    "main.js": "/static/js/main.de6d57bd.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/unplash.png": "/static/media/unplash.9d32260ea15bb5834509.png",
     "static/media/bewakoof.PNG": "/static/media/bewakoof.c6b2ccb769e1fd5abcc0.PNG",
     "static/media/giphy.gif": "/static/media/giphy.3bc4d13144dafbcb5345.gif",
     "static/media/pharmesy.PNG": "/static/media/pharmesy.7eb27ccd4177327b4f15.PNG",
     "static/media/jefit.PNG": "/static/media/jefit.328e9d0d6280b4e2b496.PNG",
-    "static/media/Ankita-Thakur-Resume.pdf": "/static/media/Ankita-Thakur-Resume.f0caf39cf4a49f791a3c.pdf",
+    "static/media/fp05_356_Ankita-Thakur-Resume.pdf": "/static/media/fp05_356_Ankita-Thakur-Resume.f0caf39cf4a49f791a3c.pdf",
     "static/media/ankita2.jpg": "/static/media/ankita2.2987dcf3a1a1fb8d271f.jpg",
     "static/media/myHours.PNG": "/static/media/myHours.a5fb64ca2560e861a543.PNG",
     "static/media/computer.png": "/static/media/computer.677d3abd571e160738b5.png",
@@ -23,11 +23,11 @@
     "static/media/cssIcon.svg": "/static/media/cssIcon.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/htmlIcon.svg": "/static/media/htmlIcon.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.9a53734a.css.map": "/static/css/main.9a53734a.css.map",
-    "main.505030bf.js.map": "/static/js/main.505030bf.js.map",
+    "main.de6d57bd.js.map": "/static/js/main.de6d57bd.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a53734a.css",
-    "static/js/main.505030bf.js"
+    "static/js/main.de6d57bd.js"
   ]
 }
